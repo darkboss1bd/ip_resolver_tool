@@ -2,7 +2,9 @@
 Creates the Advanced IP Resolver Tool, which will find the IP address from any website domain
 
 
-[UI](https://ibb.co.com/TxLkxghT)
+<a>
+<img src="https://i.ibb.co.com/bMJPMKd3/2025-09-03-090220.png" alt="2025-09-03-090220" border="0">
+</a>
 
 
 
